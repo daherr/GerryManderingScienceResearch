@@ -1,4 +1,3 @@
-package com.example.google.places;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
